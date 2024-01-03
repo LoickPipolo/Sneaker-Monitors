@@ -1,9 +1,9 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = ""
+WEBHOOK = "https://discord.com/api/webhooks/1191729139426795600/yNqMrMxSqsVnbQEyoBRJDM6F_JeDO-_Ec8787C8tpBiNfHtj2roOTqsDJOXhHRiZmmr6"
 
 # --------------------- SNKRS DETAILS ---------------------
-LOCATION = ""
-LANGUAGE = ""
+LOCATION = "FR"
+LANGUAGE = "fr"
 
 # --------------------- FREE PROXY ---------------------
 # A single or multiple locations can be added in the array (e.g. ["GB"] or ["GB", "US"])
@@ -12,7 +12,7 @@ FREE_PROXY_LOCATION = ["GB"]
 
 # --------------------- DELAY ---------------------
 # Delay between site requests
-DELAY = 5
+DELAY = 1
 
 # --------------------- OPTIONAL PROXY ---------------------
 # Proxies must follow this format: "<proxy>:<port>" OR "<proxy_username>:<proxy_password>@<proxy_domain>:<port>")

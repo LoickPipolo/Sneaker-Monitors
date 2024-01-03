@@ -1,5 +1,5 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = ""
+WEBHOOK = "https://discord.com/api/webhooks/1192046198329188383/-riq80QL_9a9WSZ-V_IywJS3It7nwJmkWXPRT7WZrEVIhglHZ7UjjNKHlHw_Auqfy8va"
 
 # --------------------- FREE PROXY ---------------------
 # A single or multiple locations can be added in the array (e.g. ["GB"] or ["GB", "US"])
@@ -8,7 +8,7 @@ FREE_PROXY_LOCATION = ["GB"]
 
 # --------------------- DELAY ---------------------
 # Delay between site requests
-DELAY = 5
+DELAY = 1
 
 # --------------------- OPTIONAL PROXY ---------------------
 # Proxies must follow this format: "<proxy>:<port>" OR "<proxy_username>:<proxy_password>@<proxy_domain>:<port>")
